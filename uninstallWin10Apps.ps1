@@ -23,3 +23,4 @@ Get-AppxPackage *Microsoft3DViewer* | Remove-AppxPackage
 Get-appxpackage *Microsoft.WindowsFeedbackHub* | Remove-AppxPackage
 Get-appxpackage *Microsoft.GetHelp* | Remove-AppxPackage
 Get-appxpackage *Microsoft.MSPaint* | Remove-AppxPackage
+Get-AppxPackage *ScreenSketch* | Remove-AppxPackage 
