@@ -1,2 +1,2 @@
 # Default Windows 10 applications
-To uninstall all windows 10 applications, just run the 
+To uninstall all windows 10 applications, just run [uninstallWin10Apps.ps1](https://github.com/dojo90/uninstall-windows-10-apps/blob/master/uninstallWin10Apps.ps1) in a WindowsPowershell with admin rights.
