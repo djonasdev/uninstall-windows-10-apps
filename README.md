@@ -14,3 +14,8 @@ You will be asked if you are sure that you want to change the Execution Policy h
 You can now run your downloaded scripts without a problem. However, it’s a serious security risk if you forget to set the Execution Policy back to Restricted mode. You could probably guess how to set it back to Restricted, but incase you don’t:
 
 >     Set-ExecutionPolicy Restricted
+
+# How to Uninstall Mixed Reality Portal in Windows 10
+
+See this link: 
+- https://winaero.com/blog/uninstall-mixed-reality-portal-windows-10/
